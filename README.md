@@ -30,9 +30,4 @@ See my achivements and other cool stuff on my github: [4rthurAP](https://github.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4rthurAP&exclude_repo=USP)
 
-## My Resume
-![]()
-
-
-
 
