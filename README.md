@@ -3,7 +3,7 @@
 -->
 # Arthur Pereira 
 
-My name is Arthur Pereira and I'm a Fullstack Developer. Currently working at WebPassos (remotely) and G7, located in Curitiba, MG (Brazil).
+My name is Arthur Pereira and I'm a BackEnd Developer. Currently working at WebPassos (remotely), located in Curitiba, PR (Brazil).
 
 See my achivements and other cool stuff on my github: [4rthurAP](https://github.com/4rthurAP)
 
